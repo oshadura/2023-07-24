@@ -2,13 +2,10 @@ name: 2023-07-24-coffea-casa
 channels:
   - conda-forge
 dependencies:
-  - python==3.10.*
   - dask
   - dask-awkward
-  - dask-labextension
   - distributed
-  - jupyterlab
-  - jupyterlab-deck
+  - dask-jobqueue
   - matplotlib
   - numba
   - numpy
