@@ -1,0 +1,12 @@
+name: 2023-07-24-coffea-casa
+channels:
+  - conda-forge
+dependencies:
+  - dask
+  - dask-awkward
+  - dask-labextension
+  - distributed
+  - dask-jobqueue
+  - matplotlib
+  - pandas
+  - numpy
